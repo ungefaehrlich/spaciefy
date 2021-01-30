@@ -1,4 +1,6 @@
 {
+    "name": "ungefaehrlich/spaciefy",
+    "description": "space browsergame",
     "type": "project",
     "license": "proprietary",
     "minimum-stability": "dev",
